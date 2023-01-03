@@ -37,8 +37,6 @@ I'm an currently an student at Univalle University, building a carrer path in Co
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-<br />
-
 ### 🛠️ Software and Tools
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -46,7 +44,6 @@ I'm an currently an student at Univalle University, building a carrer path in Co
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual%20studio&logoColor=white"></a>
 </p>
-<br />
 
 ### 📕 Frameworks and Libraries
 <p>
@@ -54,7 +51,6 @@ I'm an currently an student at Univalle University, building a carrer path in Co
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
-<br />
 
 ### 🗄️ Databases
 <p>
@@ -69,7 +65,6 @@ I'm an currently an student at Univalle University, building a carrer path in Co
     <!--Firebase-->
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white"></a>
 </p>
-<br />
 
 ---
 ## 📊 My Stats
